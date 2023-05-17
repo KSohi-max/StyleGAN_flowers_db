@@ -22,7 +22,7 @@ In Figure 6 shown above, we can begin to differentiate the flowers from the foil
 
 While categories of generated flower images are randomly chosen in the code, as evident through the resulting image samples, some flower types are generated more often than the other. For instance, number of images generated that look similar to Watercress and Passion Flower are prominent in Figure 6. This is due to the imbalance in our dataset. Number of images stored per class in the VGG dataset [7] were not balanced and as a result, classes that contained higher number of image examples in the dataset were more dominantly selected by the generator.
 
-For additional discussions on results, pleasee see [](https://github.com/KSohi-max/StyleGAN_flowers_db/blob/main/Final_SCS3546_008_TermProject_v200818.ipynb)
+For additional discussions on results, pleasee see [Final_SCS3546_008_TermProject_v200818.ipynb](https://github.com/KSohi-max/StyleGAN_flowers_db/blob/main/Final_SCS3546_008_TermProject_v200818.ipynb)
 
 ## Limitations
 
